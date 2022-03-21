@@ -15,7 +15,7 @@ main{
 }
 
 .hero-background{
-background-image:url(https://images.pexels.com/photos/7243061/pexels-photo-7243061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+background-image:url(https://images.pexels.com/photos/10044788/pexels-photo-10044788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
 background: no repeat fixed center;
   background-size: cover;
 padding: 250px;
@@ -115,32 +115,31 @@ section{
   opacity: 0.9;
 }
 
-span .font-pair1a{
+.font-pair1a{
   font-family: 'Press Start 2P', cursive;
-  font-size: 25px;
+  font-size: 23px;
 }
 
-span .font-pair1b{
+.font-pair1b{
  font-family: 'Orbitron', sans-serif;
  font-size: 30px;
 }
-
-span .font-pair2a{
+.font-pair2a{
  font-family: 'Cardo', serif;
  font-size: 30px;
 }
 
-span .font-pair2b{
+.font-pair2b{
  font-family: 'Old Standard TT', serif;
  font-size: 30px;
 }
 
-span .font-pair3a{
+.font-pair3a{
  font-family: 'Barlow Condensed', sans-serif;
  font-size: 30px;
 }
 
-span .font-pair3b{
+.font-pair3b{
  font-family: 'PT Sans Narrow', sans-serif;
  font-size: 30px;
 }
