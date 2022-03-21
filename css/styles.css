@@ -89,8 +89,11 @@ nav{
 article {
   max-width: 50%;
   margin: 20px auto;
-  background: no-repeat fixed center;
   padding: 50px;
+}
+
+section{
+  background: no-repeat fixed center;
 }
 
 .first-article-container, .second-article-container, .third-article-container  {
@@ -112,32 +115,32 @@ article {
   opacity: 0.9;
 }
 
-.font-pair1a{
+span .font-pair1a{
   font-family: 'Press Start 2P', cursive;
   font-size: 25px;
 }
 
-.font-pair1b{
+span .font-pair1b{
  font-family: 'Orbitron', sans-serif;
  font-size: 30px;
 }
 
-.font-pair2a{
+span .font-pair2a{
  font-family: 'Cardo', serif;
  font-size: 30px;
 }
 
-.font-pair2b{
+span .font-pair2b{
  font-family: 'Old Standard TT', serif;
  font-size: 30px;
 }
 
-.font-pair3a{
+span .font-pair3a{
  font-family: 'Barlow Condensed', sans-serif;
  font-size: 30px;
 }
 
-.font-pair3b{
+span .font-pair3b{
  font-family: 'PT Sans Narrow', sans-serif;
  font-size: 30px;
 }
